@@ -1,0 +1,56 @@
+.box 
+{
+    background-color: rgba(91, 140, 87, 0.442);
+    height: 400px;
+    width: 290px;
+    text-align: center;
+    margin: auto;
+    border-radius: 25px;
+    border: 3px solid black;
+   
+}
+.button
+{
+    text-align: center;
+    padding: 20px;
+    background-color:#fbdcdc;
+    color: black;
+    border:1px solid black;
+    cursor: pointer;
+    border-radius: 15px;
+    
+    
+}
+.custom-button
+{
+    text-align: center;
+    padding: 20px;
+    background-color:rgb(198, 138, 99);
+    color: rgb(0, 0, 0);
+    box-shadow: 2px;
+    cursor: pointer;
+    border-radius: 15px;
+}
+.row
+{
+    margin: 8px;
+}
+.row input
+{
+    padding:5px;
+    margin-left: px;
+    font-size: 12px;
+    box-sizing: content-box;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+.input
+{
+    border-radius: 10px;
+    padding: 10px;
+    max-width: 180px;
+    max-height: 30px;
+}
+h2{
+    text-align: center;
+}
